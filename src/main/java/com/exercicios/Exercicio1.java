@@ -21,7 +21,7 @@ public class Exercecio1 extends HttpServlet {
 	 */
 	public Exercicio1() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub*
 	}
 
 	/**
